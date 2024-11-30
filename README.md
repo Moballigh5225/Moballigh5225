@@ -16,11 +16,11 @@
 
 <p align="left"> <a href="https://twitter.com/moballighu" target="blank"><img src="https://img.shields.io/twitter/follow/moballighu?logo=twitter&style=for-the-badge" alt="moballighu" /></a> </p>
 
-- 🔭 I’m currently working on [formbricks-open source](https://github.com/formbricks/formbricks?tab=readme-ov-file)
+- 🔭 I’m currently working on [skhan Blogs]([https://github.com/formbricks/formbricks?tab=readme-ov-file](https://github.com/Moballigh5225/skhan-blogs))
 
-- 🌱 I’m currently learning **Java,TypeScript,React Native,**
+- 🌱 I’m currently learning **DSA,TypeScript,React Native,PostGresSQL,.net**
 
-- 👨‍💻 All of my projects are available at [https://moballigh-portfolio.vercel.app/](https://moballigh-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://moballigh-portfolio.vercel.app/](https://moballigh-portofolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://app.daily.dev/moballighulislam5225](https://app.daily.dev/moballighulislam5225)
 
